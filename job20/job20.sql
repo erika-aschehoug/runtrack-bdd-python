@@ -1,0 +1,1 @@
+SELECT COUNT(*) AS nombre_etudiant_mineur FROM etudiant WHERE age <18;
